@@ -1,11 +1,14 @@
-# Workshop 1.6
+# Workshop 1.6: Pipe Dreams
 
-*[CEGM1000 MUDE](http://mude.citg.tudelft.nl/)*
+In this workshop you will apply the propagation laws for the mean and variance for a function of two independent random variables. You will assess how well the approximations correspond with the <em>simulation-based</em> equivalents. You will also assess the distribution of the function.
 
-*Written by: `<author(s)>`*
+### Objectives
 
-*Due: `<day of week>`, `<month>` `<day>`, `<year>`.*
+1. Observe how uncertainty "propagates" from the inputs to the output of a function by estimating moments of the function of random variables and seeing how they change relative to the moments of the input random variables.
+2. Recognize that a non-linear function of random variables that have the (joint) Normal distribution (the inputs) produces a non-Normal random variable (the output).
+3. Using _sampling_ (Monte Carlo Simulation) to _validate_ the linearized error propagation technique introduced in the textbook. Specifically, by:
+   1. Comparing the estimated moments with that of the sample, and
+   2. Comparing the Normal distribution defined by the estimated moments to the sample
 
-`<This repository contains source file for the assignment and will be used a source for student repositories and in the workbook. Replace this README with appropriate information describing the file types>`
 
-> Copyright 2025 MUDE, Delft University of Technology. This work is licensed under a CC BY 4.0 License
+> By Lotfi Massarweh and Sandra Verhagen, Delft University of Technology. CC BY 4.0, more info on the Credits page of Workbook. 
