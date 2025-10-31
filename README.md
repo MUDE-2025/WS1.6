@@ -1,5 +1,7 @@
 # Workshop 1.6: Pipe Dreams
 
+You can preview this assignment on https://mude.citg.tudelft.nl/workbook-2025/assignments/WS1.6/README.html. After the deadline, this link will include solutions. The preview of the assignment version is shared here: https://mude.citg.tudelft.nl/workbook-2025/no_solutions/assignments/WS1.6/README.html. Pages can be downloaded as `.md` and `.ipynb` files to your computer.
+
 In this workshop you will apply the propagation laws for the mean and variance for a function of two independent random variables. You will assess how well the approximations correspond with the <em>simulation-based</em> equivalents. You will also assess the distribution of the function.
 
 ### Objectives
